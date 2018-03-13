@@ -42,10 +42,6 @@
   animation:hue 5000ms infinite linear;
 }
 
-.centerstage{
-  margin: auto;
-}
-
 @keyframes spinify {
   0% {
     transform: translate(0px,0px);
